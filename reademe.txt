@@ -1,0 +1,26 @@
+JAVA中的标识符：
+	用来标识类名、变量名、方法名、数组名、文件名的有效字符序列。
+标识符的规则:
+	1.由字母、数字、下划线和美元符号组成，第一个字符不能为数字。
+	2.JAVA语言使用Unicode标准字符集，最多可以识别65535个字符。
+	3.标识符不能是JAVA的关键字和保留字
+	4.在JAVA语言中标识符是区分大小写的。
+关键字：
+	int 	public 	this 	finally 	boolean 	abstract
+	continue	float	long	short	throw	throws
+	return	break	for	static	new	interfact
+	if	double	default	byte	do	case
+	strictfp	package	super	void	try	switch
+	else	catch	implements	private	final	class
+	extends	volatile	while	synchronized	instanceof	char
+	protected	importd	transient	implements	dafaule
+基本数据类型：
+	JAVA中有8种基本数据类型，6种是数值类型，另外是字符类型和布尔类型。
+	6种种4种是整数类型，另外两种是浮点型
+	
+	byte	8位	-128~127
+	short	16位	-32768~32767
+	int		32位	-2147483648~2147483647
+	long	64位	-9223372036854775808~9223372036854775807
+	
+	
